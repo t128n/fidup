@@ -17,3 +17,9 @@ Eine detaillierte Übersicht und Navigation zu den einzelnen Lernthemen findest 
 
 
 Viel Erfolg bei der Vorbereitung! 
+
+## Kontakt
+
+Für Fragen, Fehler, Anregungen, erstelle bitte ein Issue oder trage über einen Pull Request bei.
+
+Solltet Ihr direkten Kontakt wünschen, könnt Ihr mich unter [t128n@ipv4.8shield.net](mailto:t128n@ipv4.8shield.net) erreichen.
