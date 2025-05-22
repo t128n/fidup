@@ -1,10 +1,10 @@
 # fidup - AP2 Fachinformatiker für Daten- und Prozessanalyse (IHK) - Lernzettel
 
+[![GitHub issues](https://img.shields.io/github/issues/t128n/fidup)](https://github.com/t128n/fidup/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/t128n/fidup)](https://github.com/t128n/fidup/pulls)  [![GitHub contributors](https://img.shields.io/github/contributors/t128n/fidup)](https://github.com/t128n/fidup/graphs/contributors) [![GitHub stars](https://img.shields.io/github/stars/t128n/fidup)](https://github.com/t128n/fidup/stargazers)
+
 Dieses Repository dient der Vorbereitung auf die AP2 des Fachinformatikers für Daten- und Prozessanalyse (IHK) ("fidup"). Es enthält Lernzettel für die Prüfung im Winter 2024/2025.
 
 **Wichtiger Hinweis:** Die hier bereitgestellten Notizen wurden nach bestem Wissen und Gewissen erstellt und haben mir zu einer Abschlussnote von 1,4 verholfen. Es wird jedoch keine Verantwortung für die Aktualität und Vollständigkeit der Inhalte übernommen.
-
-Bei Fragen, Fehlern oder Anregungen, erstelle bitte ein Issue oder trage über einen Pull Request bei.
 
 ## Struktur
 
