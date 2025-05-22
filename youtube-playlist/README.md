@@ -2,6 +2,10 @@
 
 Dieses Verzeichnis enthält `videos.csv`, eine kommagetrennte Wertedatei (CSV). Diese CSV-Datei ist ein Export von YouTube-Videos, die maßgeblich zur Vorbereitung auf die AP2-Prüfung (Fachinformatiker für Daten- und Prozessanalyse - IHK) beigetragen haben. Diese Videos wurden ausgiebig angesehen und haben sich als sehr hilfreich erwiesen.
 
+Eine entsprechende YouTube-Wiedergabeliste finden Sie hier: [YouTube-Wiedergabeliste](https://www.youtube.com/playlist?list=PLlNxenr16kpQcDOxzDIWt70rhp7iBv-uX)
+
+**Wichtiger Hinweis:** Diese Wiedergabeliste ist mit einem privaten YouTube-Konto verknüpft. Es gibt keine Garantie, dass diese Wiedergabeliste in Zukunft weiterhin verfügbar sein wird.
+
 ## Erstellen einer YouTube-Wiedergabeliste aus einer CSV-Datei
 
 Wenn Sie aus der Datei `videos.csv` eine YouTube-Wiedergabeliste erstellen möchten, finden Sie hier einige allgemeine Ansätze und Ressourcen, die hilfreich sein könnten. Die manuelle Erstellung einer Wiedergabeliste ist immer eine Option, aber bei einer großen Anzahl von Videos kann die Automatisierung effizienter sein.
